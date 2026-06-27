@@ -1,5 +1,7 @@
 ## Hello, i am Otávio de Moraes!
-<a href="https://www.linkedin.com/in/otávio-de-moraes-18311a322/" target="_blank"><img width="25px" alt="Otávio de Moraes | LinkedIn" src="https://github.com/otavio61/icons/blob/main/colored/linkedin.png"/></a>
+- I am currently pursuing a degree in Systems Analysis and Development.
+- I have a technician integrated high school degree in informatics
+- I am currently working at Microsoft! 
 
 <br/>
 
@@ -23,6 +25,11 @@
 <br/>
 <br/>
 <br/>
+
+### Social Media
+<a href="https://www.linkedin.com/in/otávio-de-moraes-18311a322/" target="_blank"><img width="25px" alt="Otávio de Moraes | LinkedIn" src="https://github.com/otavio61/icons/blob/main/colored/linkedin.png"/></a>
+
+
 
 ---
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=otavio61&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
