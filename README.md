@@ -27,7 +27,7 @@
 <br/>
 
 ### Social Media
-<a href="https://www.linkedin.com/in/otávio-de-moraes-18311a322/" target="_blank"><img width="25px" alt="Otávio de Moraes | LinkedIn" src="https://github.com/otavio61/icons/blob/main/colored/linkedin.png"/></a>
+<a href="https://www.linkedin.com/in/otávio-de-moraes-18311a322/" target="_blank"><img width="40px" alt="Otávio de Moraes | LinkedIn" src="https://github.com/otavio61/icons/blob/main/colored/linkedin.png"/></a>
 
 
 
