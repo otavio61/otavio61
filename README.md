@@ -18,7 +18,7 @@
 ### Softwares i use
 <a href="https://code.visualstudio.com" target="_blank"><img align="left" width="40px" alt="VS Code" src="https://github.com/otavio61/icons/blob/main/colored/vscode.png"/></a>
 <a href="https://eclipseide.org" target="_blank"><img align="left" width="40px" alt="Eclipse" src="https://github.com/otavio61/icons/blob/main/colored/eclipse.png"/></a>
-<a href="https://notepad-plus-plus.org" target="_blank"><img align="left" width="40px" alt="Eclipse" src="https://github.com/otavio61/icons/blob/main/colored/np++.png"/></a>
+<a href="https://notepad-plus-plus.org" target="_blank"><img align="left" width="40px" alt="Eclipse" src="https://github.com/otavio61/icons/blob/main/colored/notepad++.png"/></a>
 
 <br/>
 <br/>
