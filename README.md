@@ -3,8 +3,6 @@
 - I have a technician integrated high school degree in informatics
 - I am currently working at Microsoft! 
 
-<br/>
-
 ### Programming languages i'm learning
 [![My Skills](https://skillicons.dev/icons?i=java,html,css,js,php,c)](https://skillicons.dev)
 
