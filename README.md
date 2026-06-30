@@ -1,21 +1,21 @@
 ## Hello, nice to meet you!
-- I am currently pursuing a degree in Systems Analysis and Development.
-- I have a technician integrated high school degree in informatics
-- I am currently working at Microsoft! 
+- I am currently pursuing a degree in Systems Analysis and Development;
+- I have a technician integrated high school degree in informatics;
+- I am currently working at Microsoft!
 
-### Programming languages i'm learning
+## Programming languages i'm learning
 [![My Skills](https://skillicons.dev/icons?i=java,html,css,js,react,php,c&perline=4)](https://skillicons.dev)
 
-### Frameworks
+## Frameworks
 [![My Skills](https://skillicons.dev/icons?i=hibernate)](https://skillicons.dev)
 
-### Databases
+## Databases
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgres)](https://skillicons.dev)
 
-### IDEs and text editors i use
+## IDEs and text editors i use
 [![My Skills](https://skillicons.dev/icons?i=vscode,eclipse)](https://skillicons.dev)
 
-### More about my professional profile
+## More about my professional profile
 <a href="https://www.linkedin.com/in/otávio-de-moraes-18311a322/" target="_blank"><img width="40px" alt="Otávio de Moraes | LinkedIn" src="https://skillicons.dev/icons?i=linkedin"/></a>
 
 ---
