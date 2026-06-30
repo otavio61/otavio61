@@ -1,16 +1,23 @@
-## Hello, i am Otávio!
+## Hello, nice to meet you!
 - I am currently pursuing a degree in Systems Analysis and Development.
 - I have a technician integrated high school degree in informatics
 - I am currently working at Microsoft! 
 
 ### Programming languages i'm learning
-[![My Skills](https://skillicons.dev/icons?i=java,html,css,js,php,c)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,html,css,js,react,php,c&perline=4)](https://skillicons.dev)
 
 ### Frameworks
 [![My Skills](https://skillicons.dev/icons?i=hibernate)](https://skillicons.dev)
+
+### Databases
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres)](https://skillicons.dev)
 
 ### IDEs and text editors i use
 [![My Skills](https://skillicons.dev/icons?i=vscode,eclipse)](https://skillicons.dev)
 
 ### More about my professional profile
 <a href="https://www.linkedin.com/in/otávio-de-moraes-18311a322/" target="_blank"><img width="40px" alt="Otávio de Moraes | LinkedIn" src="https://skillicons.dev/icons?i=linkedin"/></a>
+
+---
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=otavio61&theme=city_lights)
