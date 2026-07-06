@@ -4,7 +4,7 @@
 - I am currently working at Microsoft!
 
 ## Programming languages i'm learning
-[![My Skills](https://skillicons.dev/icons?i=java,html,css,js,react,php,c&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,html,css,js,php,react,c&perline=4)](https://skillicons.dev)
 
 ## Frameworks
 [![My Skills](https://skillicons.dev/icons?i=hibernate)](https://skillicons.dev)
