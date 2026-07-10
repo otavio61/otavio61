@@ -1,4 +1,4 @@
-## Hello, nice to meet you!
+## About me
 - I'm currently pursuing a degree in Systems Analysis and Development;
 - I have a technician integrated high school degree in informatics;
 - I'm currently working at Microsoft as a Finance Operations Intern;
