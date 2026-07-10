@@ -1,4 +1,3 @@
-# Hello, nice to meet you!
 I'm Otávio, an aspiring software developer focused on back-end development, object-oriented programming, and building solid technical foundations. With a background in Informatics and ongoing studies in Systems Analysis and Development, I'm always looking for opportunities to learn, build, and grow.
 
 ## About me
