@@ -1,9 +1,9 @@
 ## Hello, nice to meet you!
 - I am currently pursuing a degree in Systems Analysis and Development;
 - I have a technician integrated high school degree in informatics;
-- I am currently working at Microsoft!
+- I am currently working at Microsoft as an intern in finance operations role.
 
-## Programming languages i'm learning
+## Programming languages
 [![My Skills](https://skillicons.dev/icons?i=java,html,css,js,php,react,c&perline=4)](https://skillicons.dev)
 
 ## Frameworks
@@ -12,7 +12,7 @@
 ## Databases
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgres)](https://skillicons.dev)
 
-## IDEs and text editors i use
+## IDEs and editors
 [![My Skills](https://skillicons.dev/icons?i=vscode,eclipse)](https://skillicons.dev)
 
 ## More about my professional profile
