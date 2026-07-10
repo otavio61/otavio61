@@ -1,6 +1,6 @@
+## About me
 I'm Otávio, an aspiring software developer focused on back-end development, object-oriented programming, and building solid technical foundations. With a background in Informatics, I'm always looking for opportunities to learn, build, and grow.
 
-## About me
 - I'm currently pursuing a degree in Systems Analysis and Development;
 - I completed a technical high school program in Informatics;
 - I'm currently working at Microsoft as a Finance Operations Intern;
