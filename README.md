@@ -2,9 +2,11 @@
 - I am currently pursuing a degree in Systems Analysis and Development;
 - I have a technician integrated high school degree in informatics;
 - I am currently working at Microsoft as an intern in finance operations role.
+- Full stack development basic background knowledge
+- Focusing in back-end development with object oriented programming
 
 ## Programming languages
-[![My Skills](https://skillicons.dev/icons?i=java,html,css,js,php,react,c&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,html,css,js,php,react,c,bootstrap&perline=4)](https://skillicons.dev)
 
 ## Frameworks
 [![My Skills](https://skillicons.dev/icons?i=hibernate)](https://skillicons.dev)
