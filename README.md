@@ -1,9 +1,9 @@
 ## Hello, nice to meet you!
-- Currently pursuing a degree in Systems Analysis and Development;
-- Technician integrated high school degree in informatics;
-- Currently work at Microsoft as a Finance Operations Intern;
-- Basic background in full-stack development;
-- Current focus is back-end development with object-oriented programming.
+- I'm currently pursuing a degree in Systems Analysis and Development;
+- I have a technician integrated high school degree in informatics;
+- I'm currently working at Microsoft as a Finance Operations Intern;
+- I have a basic background in full-stack development;
+- My current focus is back-end development with object-oriented programming.
 
 ## Programming languages
 [![My Skills](https://skillicons.dev/icons?i=java,html,css,js,php,react,c,bootstrap&perline=4)](https://skillicons.dev)
