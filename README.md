@@ -8,7 +8,7 @@ I'm Otávio, an aspiring software developer focused on back-end development, obj
 - My current focus is back-end development with object-oriented programming.
 
 ## Technologies I use
-[![My Skills](https://skillicons.dev/icons?i=java,html,css,js,php,react,c,bootstrap&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,html,css,js,php,react,c&perline=4)](https://skillicons.dev)
 
 ## Frameworks I'm familiar with
 [![My Skills](https://skillicons.dev/icons?i=hibernate)](https://skillicons.dev)
